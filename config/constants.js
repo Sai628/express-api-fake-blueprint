@@ -21,7 +21,6 @@ exports.logo5 = "http://f.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=aea8b377
 exports.logo6 = "http://v1.qzone.cc/avatar/201508/30/00/39/55e1e026dc781749.jpg%21200x200.jpg";
 exports.logo7 = "http://www.qqwangming.org/uploads/allimg/160519/1051444I6-15.jpg";
 
-
 // Title
 exports.title1 = "iOS动画案例之会跳舞的界面(上)";
 exports.title2 = "iOS动画案例之会跳舞的界面(下)";
@@ -40,7 +39,6 @@ exports.subtitle5 = "AIDL是Android开发中比较常见的技术，想成为一
 exports.subtitle6 = "百度Andriod 导航SDK为Android移动端应用提供了一套简单易用的导航服务接口，适用于Android 2.1及以上版本。专注于为广大开发者提供最好的导航服务，通过使用百度导航SDK，开发者可以轻松为应用程序实现专业、高效、精准的导航功能。";
 exports.subtitle7 = "本课程通过高仿360加速球核心效果，带大家综合实战自定义控件，事件触摸处理，以及浮窗体等重难点技术。让大家在实战中体会这些知识点在实际项目中的运用，从而能学习致用，打造出更加酷绚的UI和体验更好的产品。";
 
-
 // Img
 exports.img1 = "http://img.mukewang.com/57874063000195dc06000338-240-135.jpg";
 exports.img2 = "http://img.mukewang.com/5707773c000120e906000338-240-135.jpg";
@@ -50,7 +48,6 @@ exports.img5 = "http://img.mukewang.com/57075a800001081e06000338-240-135.jpg";
 exports.img6 = "http://img.mukewang.com/575fc4c10001de0406000338-240-135.jpg";
 exports.img7 = "http://img.mukewang.com/579f0fb10001c5e006000338-240-135.jpg";
 
-
 // Timestamp
 exports.timestamp1 = (new Date()).valueOf() - 60 * 60 * 1000 * 1;
 exports.timestamp2 = (new Date()).valueOf() - 60 * 60 * 1000 * 2;
@@ -59,5 +56,4 @@ exports.timestamp4 = (new Date()).valueOf() - 60 * 60 * 1000 * 5;
 exports.timestamp5 = (new Date()).valueOf() - 60 * 60 * 1000 * 8;
 exports.timestamp6 = (new Date()).valueOf() - 60 * 60 * 1000 * 13;
 exports.timestamp7 = (new Date()).valueOf() - 60 * 60 * 1000 * 21;
-
 exports.timestampNow = (new Date()).valueOf();

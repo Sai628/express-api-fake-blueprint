@@ -5,12 +5,10 @@
 var UserModel = require('../models/userModel');
 var Constants = require('../../config/constants');
 
-
 exports.get_verify = function(req, res)
 {
     res.json({status: 1})
 }
-
 
 exports.register = function(req, res)
 {
@@ -24,7 +22,6 @@ exports.register = function(req, res)
     res.json(data)
 }
 
-
 exports.login = function(req, res)
 {
     var data = {
@@ -36,30 +33,25 @@ exports.login = function(req, res)
     res.json(data)
 }
 
-
 exports.password_change = function(req, res)
 {
     res.json({status: 1})
 }
-
 
 exports.password_get_verify = function(req, res)
 {
     res.json({status: 1})
 }
 
-
 exports.password_reset = function(req, res)
 {
     res.json({status: 1})
 }
 
-
 exports.checkin = function(req, res)
 {
     res.json({status: 1})
 }
-
 
 exports.info = function(req, res)
 {
@@ -70,12 +62,10 @@ exports.info = function(req, res)
     res.json(data)
 }
 
-
 exports.update = function(req, res)
 {
     res.json({status: 1})
 }
-
 
 exports.update_logo = function(req, res)
 {
